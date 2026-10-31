@@ -1,9 +1,0 @@
-nltk>=3.8
-inflect>=7.0
-spacy>=3.7
-
-# Optional - needed only for:
-#   Experiment-2/Pattern-Verb-Conjugation.py
-#   Experiment-3/Program-7.py
-# (pattern is difficult to install on recent Python versions)
-# pattern
